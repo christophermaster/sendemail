@@ -24,7 +24,7 @@ class controller_email {
         var mailOptions = {
             from: 'Remitente',
             to: body,
-            subject: 'Asunto',
+            subject: 'Prueba para Vacante',
             html: { path: 'public/3-validacion-cuenta.html' },
             attachments: [{
                 filename: 'facebook.png',
