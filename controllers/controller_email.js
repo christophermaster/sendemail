@@ -16,8 +16,8 @@ class controller_email {
             secure: false, 
             tls: { ciphers: 'SSLv3' }, 
             auth: {
-                user: 'christopherfacyt@gmail.com',
-                pass: 'computer3264.'
+                user: 'pruebavacante@gmail.com',
+                pass: 'pruebavacante2020'
             }
         });
         // Definimos el email
