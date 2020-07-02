@@ -46,6 +46,10 @@ class controller_email {
                 filename: 'google.png',
                 path:  'public/images/google.png',
                 cid: 'google' //same cid value as in the html img src
+            },{
+                filename: 'logo.png',
+                path:  'public/images/logo.png',
+                cid: 'logo' //same cid value as in the html img src
             }
         ]
         };
